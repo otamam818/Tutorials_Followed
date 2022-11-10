@@ -1,1 +1,0 @@
-/home/usr101/Documents/GitProjects/Tutorials_Followed/Rust/minigrep/target/debug/minigrep: /home/usr101/Documents/GitProjects/Tutorials_Followed/Rust/minigrep/src/lib.rs /home/usr101/Documents/GitProjects/Tutorials_Followed/Rust/minigrep/src/main.rs
